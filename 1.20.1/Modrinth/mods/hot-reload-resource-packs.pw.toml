@@ -1,0 +1,13 @@
+name = "Hot-Reload Resource Packs"
+filename = "hot_reload_resource_packs-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8xOCApGi/versions/Z9PercES/hot_reload_resource_packs-1.0.0.jar"
+hash-format = "sha512"
+hash = "0dd02976e56690baac3703deec3ff4457de43e1c872b54227d69bae108d8a149a727de6f0066727d33d8e4d55e2de7e6ce5bde815764de97cf1258bb91cd1e31"
+
+[update]
+[update.modrinth]
+mod-id = "8xOCApGi"
+version = "Z9PercES"

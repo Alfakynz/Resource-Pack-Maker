@@ -7,8 +7,6 @@ It also includes several performance mods to keep the game running smoothly in t
 
 ### 🔄 Automatically refresh on save
 
-Thanks to **Hot Reload Resource Packs**, when a file changed in your `resourcepacks` directory, it refreshs the game assets. And with **Remove Reloading Screen**, you aren't blocked at the loading screen anymore.
-
 Thanks to **Hot Reload Resource Packs**, whenever a file is changed in your `resourcepacks` directory, the game assets are refreshed automatically. And with **Remove Reloading Screen**, you no longer get stuck on the loading screen during reloads.
 
 ### 📈 An optimized modpack 🔧

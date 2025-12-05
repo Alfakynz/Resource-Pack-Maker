@@ -3,3 +3,5 @@
 dist/
 */*/config/
 */*/options.txt
+*.png
+!configurations/icon.png

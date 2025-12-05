@@ -21,6 +21,10 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "6160c0e00f3391cd34fafcb2ea6c66e00a0e43a8d25d401077e974a397b54326"
 
 [[files]]
+file = "icon.png"
+hash = "c6ddd19bac8165eb2f1eaf2a3d7c94b9fec46c9e40cf29c4b2157174405afb3e"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
@@ -136,6 +140,11 @@ hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "10d2cb5f575d0c290549758cafe0e3b15acbca8c5163aa4209cbe4fb8fcb7de5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
@@ -198,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "d22546ad55b555931eb527f163b3564e00c12c7dc8101378b87447dfcc8e0652"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "6891f1e1b0b0fd3650023b8e984447f7e0a3e1488a203fec0cdfd201a9a59ee7"
 metafile = true
 
 [[files]]

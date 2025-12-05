@@ -18,7 +18,12 @@ hash = "e786365dc27656ea69e2f990eb932d256a3950894e886b012259fa92e8f6e764"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "42ad546d529d2c0d1709ed7651999b1f8747ee1764f128637b2efa9eb43f6943"
+hash = "6160c0e00f3391cd34fafcb2ea6c66e00a0e43a8d25d401077e974a397b54326"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -33,6 +38,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -126,6 +141,11 @@ hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "44b266511a87dd03b2160cf7aa117d239e1acaa3450eb1707359192b59025705"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
@@ -151,8 +171,28 @@ hash = "16ca9779ae1e66ad2468bbc94ca64107544e1c70210c4ae07980ac4ffbd67e4f"
 metafile = true
 
 [[files]]
+file = "mods/nuit.pw.toml"
+hash = "0846c709603ff778d27f6afe12caa9fedf0648b7d7182a969fd08fe6432b5cc9"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "271640453d095244948889863c5f8497fedc69b8604055213a295061af5c09c1"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "802f3efc129ab62029ac7dc9f24c5e947745346d2ce972442994d83031cdc26c"
 metafile = true
 
 [[files]]

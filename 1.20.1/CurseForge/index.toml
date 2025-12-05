@@ -18,7 +18,12 @@ hash = "e786365dc27656ea69e2f990eb932d256a3950894e886b012259fa92e8f6e764"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "42ad546d529d2c0d1709ed7651999b1f8747ee1764f128637b2efa9eb43f6943"
+hash = "6160c0e00f3391cd34fafcb2ea6c66e00a0e43a8d25d401077e974a397b54326"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "e3542efde2011e7315bb2bda8c0f32a4eda47299f82a462d2a78c93c23997752"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -33,6 +38,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "b5602c093db5864177d5d1810d52ee2dc5d9fef829242d9734593ef7986be45b"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "2e7e61c40186800ae0492a6fc6aed81793d66ffabd39f7c57713fa74a1547ce8"
 metafile = true
 
 [[files]]
@@ -126,6 +141,11 @@ hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "c287c48033da3b704cc6d991948307061420f74034830b237dd5958ef578a9af"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "93d496f6c25652cf7cca21aac860641ec337d2d6cf00b32cfb52091a1478ee20"
 metafile = true
@@ -148,6 +168,26 @@ metafile = true
 [[files]]
 file = "mods/no-more-popups.pw.toml"
 hash = "53633508694b314c003866564cc4b8099982ec840d18d21b761459513a253f8c"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "9635fb8b85ed7dbbf87913d5615c49a8162d4608f24d0c5de8a06939e6b93383"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "531f74bc733331de5395c8beb742b5900d46b31435c67dd0124a608bac20bd61"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "cc249d82181b7346698cbfa586f09924492dd429cf3997d64344ae85f3f1b947"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "5af400ef9203c68910bf2a8958bdb1bd99337b095d89286e9a06b31743f6ffae"
 metafile = true
 
 [[files]]

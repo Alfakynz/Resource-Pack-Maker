@@ -13,6 +13,14 @@ file = "config/iris.properties"
 hash = "8fb805ba7d12cca2b39786acecd4a52c7b33e7eb1ccd906af1562cb465c8c737"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "5889c79b3e046c13f81c7ba8baf3def31d5437bd97578f06122720a7737afba1"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "51e2c49a38014ac0280507f8bee1dd7a9a1364c0fd7bcf6fc5b2ce8393844699"
+
+[[files]]
 file = "config/nomorepopups.json"
 hash = "e786365dc27656ea69e2f990eb932d256a3950894e886b012259fa92e8f6e764"
 
@@ -37,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b295f82ef9223dddee5e7027cba00bc93c14a41a8479d6b9bb72fd0bba5f275e"
+metafile = true
+
+[[files]]
+file = "mods/better-selection.pw.toml"
+hash = "449d548b749af0fa7770496ebf513d97075e2a3493bda9c7a45a63ba94792d0f"
 metafile = true
 
 [[files]]
@@ -147,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "a3e8ab5b65ff403b1e578f50465a67743ff2d6943bd47458be482e44f5642754"
 metafile = true
 
 [[files]]

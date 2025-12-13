@@ -22,7 +22,7 @@ hash = "51e2c49a38014ac0280507f8bee1dd7a9a1364c0fd7bcf6fc5b2ce8393844699"
 
 [[files]]
 file = "config/nomorepopups.json"
-hash = "e786365dc27656ea69e2f990eb932d256a3950894e886b012259fa92e8f6e764"
+hash = "6b95b4b2adb794679701fb824d8532cd368e416f31da1b04c86c3712a5a5b9dd"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5b0efedacf27b8b22797a0ccfe0c1caafe82c79723557e07e8c55dea780afc68"
+hash = "949b56f74870f3722aa82cbc0af1f34b715d62007587c3ff65c47bafb15a58bc"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7cd0e909ee98d8387a1173356ca000fe958d15a3ebb58984def87dec663184f7"
+hash = "736c8917697c7640f3aceddc8e9ce2eac770048c3e3163aa16a7872d5bb04c45"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "68fe47f2100f89ddcfa587e7c514dc10421cfaaaa9ff575739e8654e0e3c13a2"
+hash = "5781f42b2ab7747dabe7169de31325683a5cb61884339438c8b7b7ca8773a93f"
 metafile = true
 
 [[files]]
@@ -209,12 +209,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2acf9b638d99721eb77572ae9192bf6e1d862ac3a77a8f39c2ee3d8c5fe3a6e1"
+hash = "71341134f651f139a3a356ea9763422cafc931e26db31eedb322fe6f94f8e651"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "a06f93011862c4d0f69f70e30d62a5b38a21ec34e4d352a5d6ddea46e63c681f"
+hash = "4cb680acde8c3dea780c0b29e0dbeafd6bc1661946af3741190bb4fede6cfa7c"
 metafile = true
 
 [[files]]
@@ -233,6 +233,11 @@ hash = "6dff4b6eccb5ecca2c5b15bf8e24523298819839db487f02a65636c2fbe3fdd1"
 metafile = true
 
 [[files]]
+file = "mods/smart-completion.pw.toml"
+hash = "87928ec93d215b4c8fa2ba397a154c97bc902c24331bfe8a4056610c1db5d954"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "f73a48751e13380b87296e5b9627c9f6669efda386bd646fd5c499b344570f46"
 metafile = true
@@ -244,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ed0e142a87ebbae7caa0c8311002a2d4e33766bcccf7ee6637ec5308a42eeb5c"
+hash = "f8b22a3818eb55e9b7eafa4cc6b1b44482b88524d4134d544dfb795d9aea058d"
 metafile = true
 
 [[files]]

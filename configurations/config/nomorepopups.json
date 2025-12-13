@@ -4,6 +4,6 @@
   "disableExperimentalWarning": true,
   "disableMultiplayerWarning": true,
   "disableRecipeToasts": false,
-  "disableResourcePackWarnings": true,
+  "disableResourcePackWarnings": false,
   "disableTutorialToasts": false
 }

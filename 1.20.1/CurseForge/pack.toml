@@ -1,12 +1,12 @@
 name = "Resource Pack Maker"
 author = "Alfakynz"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "17769315baf027f3d41e2e7bb07318fd756ec86ca91cddf3312e4e8e8e2c145a"
+hash = "69d8fc495a38026bb1cc95a1024ccf125f3fa40f1a082857c93a11ab866cef9c"
 
 [versions]
 fabric = "0.18.1"

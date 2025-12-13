@@ -22,7 +22,7 @@ hash = "51e2c49a38014ac0280507f8bee1dd7a9a1364c0fd7bcf6fc5b2ce8393844699"
 
 [[files]]
 file = "config/nomorepopups.json"
-hash = "e786365dc27656ea69e2f990eb932d256a3950894e886b012259fa92e8f6e764"
+hash = "6b95b4b2adb794679701fb824d8532cd368e416f31da1b04c86c3712a5a5b9dd"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b64a246a2066d6b8eb1cd7b9ab0e306412275ee2b3fae33ac5958c89b7f89f86"
+hash = "a276f0a45d9cb9df2b0455aa0825f6e920a5adf7d2392d16c13a271eeea5c23d"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4b17a3727e15bf347ba1ccbce06cbb787aa6236eafcb9c1a3ee126b1b8efd890"
+hash = "0cfbe1742c6aa1bbde966ca88dae20b5fa76b6e920c7cd67356d412b8514d2af"
 metafile = true
 
 [[files]]
@@ -169,12 +169,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "c287c48033da3b704cc6d991948307061420f74034830b237dd5958ef578a9af"
+hash = "e6eb3a19ba574463d4f15b1b2930df9453ae22695179fad7c86f8c3f52f6a960"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "93d496f6c25652cf7cca21aac860641ec337d2d6cf00b32cfb52091a1478ee20"
+hash = "150b043e030da14e99ea5805c5497fe5af3981fc52d22fa1f53e4d0583449ba5"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "5af400ef9203c68910bf2a8958bdb1bd99337b095d89286e9a06b31743f6ffae"
+hash = "ed043b0494a43bf8277eb02f5e7e14f5c734b95c9c8a36f7f86e0edd5cda1f78"
 metafile = true
 
 [[files]]
@@ -230,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "c64a8fbf1392d22d2bc2dd13d5b09304210aefc033d371ab4276e75cc10d56ae"
+metafile = true
+
+[[files]]
+file = "mods/smart-completion.pw.toml"
+hash = "fbbeb2b6c6561de35a2c7402b9c019a5903a38c00ed6b1f32a060dab658c4a71"
 metafile = true
 
 [[files]]

@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "004aa46b68560131a4644928de6f312ef9c7ae73a180cfb53aa0f971a6d15172"
+hash = "e2f2a6f6ff38054ce8d91a43a20b79ea7b4e84cb924142fb7d2bcfdd95fe5b57"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "736c8917697c7640f3aceddc8e9ce2eac770048c3e3163aa16a7872d5bb04c45"
+hash = "9e2e75d2cf89eb66aaa1f9423cec14e8b496a8aa0cfa9142edc4441369ed977e"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "a3e8ab5b65ff403b1e578f50465a67743ff2d6943bd47458be482e44f5642754"
+hash = "2edafdc423051b21edbe49f433e73e6ba3164dfb079673355003e0f889e7ddf3"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "71341134f651f139a3a356ea9763422cafc931e26db31eedb322fe6f94f8e651"
+hash = "9e404eee3a3c24d3c30dc2da09eef6c18acb5c3bb2a8e345875c50968946284d"
 metafile = true
 
 [[files]]

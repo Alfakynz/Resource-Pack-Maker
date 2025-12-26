@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "b295f82ef9223dddee5e7027cba00bc93c14a41a8479d6b9bb72fd0bba5f275e"
+hash = "4cad4f50ffb8846804478936902988d6a8a5e0b781675bf3f75d4fcededafca6"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "a3e8ab5b65ff403b1e578f50465a67743ff2d6943bd47458be482e44f5642754"
+hash = "2edafdc423051b21edbe49f433e73e6ba3164dfb079673355003e0f889e7ddf3"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9136836f8674011a21081263debf30a0d2442ef28438317965cb0df9c0554631"
+hash = "679324d9a0141378c05b7efcb46f543940b9d7ad1a41ea5b0d073457a4b49ecf"
 metafile = true
 
 [[files]]

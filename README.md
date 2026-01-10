@@ -17,7 +17,7 @@ This modpack is also optimized for better performance when running in the backgr
 
 ### 👤 For users
 
-1. Go on [Modrinth](https://modrinth.com/modpack/resourcepack-maker) or [CurseForge](https://www.curseforge.com/minecraft/modpacks/resourcepack-maker)
+1. Go on [Modrinth](https://modrinth.com/project/JnsufS8c) or [CurseForge](https://www.curseforge.com/minecraft/modpacks/resource-pack-maker)
 2. Download Resource Pack Maker
 3. Add any mod you need if you need one
 4. Launch and make your resource pack

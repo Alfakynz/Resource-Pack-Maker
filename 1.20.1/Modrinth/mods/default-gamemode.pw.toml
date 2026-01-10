@@ -1,0 +1,13 @@
+name = "Default Gamemode"
+filename = "default-gamemode-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/idPolUDF/versions/S2ZhQRQZ/default-gamemode-1.0.1.jar"
+hash-format = "sha512"
+hash = "ee792fcca57c1bd279734d32bf168ad1d890a82a4afd0dbee9b9bce85bd1571e531b926f1a922001d3f890eb5805d1141dbf882d27cba527c7beb7ab1a005b78"
+
+[update]
+[update.modrinth]
+mod-id = "idPolUDF"
+version = "S2ZhQRQZ"

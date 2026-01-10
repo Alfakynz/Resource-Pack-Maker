@@ -21,6 +21,10 @@ file = "config/jade/plugins.json"
 hash = "51e2c49a38014ac0280507f8bee1dd7a9a1364c0fd7bcf6fc5b2ce8393844699"
 
 [[files]]
+file = "config/no-more-popups.json"
+hash = "2c4aca5de5a66cddf94a99bc55a437192edb70a837d146afc157ddbb26fd8d2b"
+
+[[files]]
 file = "config/nomorepopups.json"
 hash = "6b95b4b2adb794679701fb824d8532cd368e416f31da1b04c86c3712a5a5b9dd"
 
@@ -78,8 +82,13 @@ hash = "23bdbf17e1fd8aeed7efeeea72741662734199dbef0b2adfac2ba795acf5ca40"
 metafile = true
 
 [[files]]
+file = "mods/default-gamemode.pw.toml"
+hash = "524afa465e999b79bcf9f51e2d1197d62bbef4f402bdbbb0f3ff9c9357445324"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c76a6e9192ddb2a582e78d15b589188022a8fa3db09bf061d33d5f64baae81c8"
+hash = "02a69054bfdf68319fac665feab07b0b2e0469685c86488ed189301f26df6b74"
 metafile = true
 
 [[files]]
@@ -89,17 +98,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9e37d8953c537212de3dc59aec2e081979b39671ab537474f71d53666aff81b2"
+hash = "f4fb9245abbdb8c359a4b4898e9c8f03e2908d32335e4e6e9650d001f669f9aa"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f13154c42b7c33d21560292453a5d30d701ae5c73d271b0af842d4c8cfe0b113"
+hash = "c87624b6bb030922148c12c8aad7e3e415ca3f26d1f4355806a31b77aa3b1c42"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "949b56f74870f3722aa82cbc0af1f34b715d62007587c3ff65c47bafb15a58bc"
+hash = "068520363709db9632207ee223dcdc9dc3a33b295806b07b0f4e6b0556b9009a"
 metafile = true
 
 [[files]]
@@ -134,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "40fa748597b1da468d9d0ef756ab55bb591e214695b93ef66feafd7cd6520a33"
+hash = "ac595381310fefa95b5592b376bc46978bee6dcf839f4a8ff67d168bbbabb887"
 metafile = true
 
 [[files]]
@@ -149,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c7d2fb2997874b6ef69179a1bc3181e7e4431932903dc6a776784fadc10afa1c"
+hash = "630992568968b8141e9f65ab44b1fb96a6b524e4892b5e50c21d2da7167ad307"
 metafile = true
 
 [[files]]
@@ -194,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "53633508694b314c003866564cc4b8099982ec840d18d21b761459513a253f8c"
+hash = "7a5d6a474afc81f35c56431a5a123ac567b85b2e01dbd928bee55816b94bb55f"
 metafile = true
 
 [[files]]
@@ -214,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "4cb680acde8c3dea780c0b29e0dbeafd6bc1661946af3741190bb4fede6cfa7c"
+hash = "f02985b0f7e4a6581898f0b40a5bd683c69d899daa7a40e8bba27a16ec423411"
 metafile = true
 
 [[files]]
@@ -249,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f8b22a3818eb55e9b7eafa4cc6b1b44482b88524d4134d544dfb795d9aea058d"
+hash = "5b3d17e43a7ca6e877bad85b838a8c38f42d8c3922e305b7d88c723a0e573a48"
 metafile = true
 
 [[files]]

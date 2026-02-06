@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "02a69054bfdf68319fac665feab07b0b2e0469685c86488ed189301f26df6b74"
+hash = "79a29ea91ba2e93faa2f7886e9c94a69db4d42bff295371515d8eaf2c4728af0"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f4fb9245abbdb8c359a4b4898e9c8f03e2908d32335e4e6e9650d001f669f9aa"
+hash = "13c8f59edd7258658f839dcf8ae1daaf658d14c56d7b4bea5743ab1bb6eccef8"
 metafile = true
 
 [[files]]
@@ -113,12 +113,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
+hash = "0364a64e7f6515dccf92e10512c81178b7afeb1ae031f8024620892769e69313"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
+hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
+hash = "3aa66d677f5f23ddc8528f0c3243a9cbded0e27ea4b3db089ec0c8deecfb5704"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9e2e75d2cf89eb66aaa1f9423cec14e8b496a8aa0cfa9142edc4441369ed977e"
+hash = "1c5e90c7879f5bbf069055aa60d04a86d8c80417b0a47d72b47cf16e3fb05f32"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "630992568968b8141e9f65ab44b1fb96a6b524e4892b5e50c21d2da7167ad307"
+hash = "cec711d01e1e80f1410b99399438af02282edc1c60e79d9bdc7cb704f32b8908"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "94944bc843327b8c13b34ee3ea4c16671d3102d5ae6845a48e5c86592d9696bb"
+hash = "4af07dd765be426fec46e72aa0a0b435b42d85bffe1ee87a100e661d881c90f2"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9e404eee3a3c24d3c30dc2da09eef6c18acb5c3bb2a8e345875c50968946284d"
+hash = "6415a74cd6781fe3cc68d07f8f17f7d6c8772d9557cae065ff1e4c7603c8015e"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1836c4b896229b4283d28009951c913b518df7aefd0ccb05f12cd954c3a7deb8"
+hash = "9197b6c2359c98253ec96c6ab10d49a30a262c3363adf6c4165861f5a16382ec"
 metafile = true
 
 [[files]]

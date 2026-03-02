@@ -98,12 +98,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "64812716eff60acd077307ad30922e02c967713037a8d88e4870943d0215ab6f"
+hash = "87d9d8848527dfedc48827c8ed220444da292ab9d386d2678551e60b4f5a866c"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "6190d61fd13e5aa8dad47af4ec7e8aa74b8edb57027efd1d37d41520e2c5a431"
+hash = "b748832ad62f5762aa18408ddb4eb4d3c7749bf6e56331746494de74de3b055c"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "7e608850c8a923fada4ea9b69f200e19d71d08a6ab8b7f1abf27d77e3731b3f2"
+hash = "691e090328215d2bc82667316431287a0a888e09133c0f8e3ad8b2152cceb530"
 metafile = true
 
 [[files]]

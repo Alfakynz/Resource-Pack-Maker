@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "171419759aec842f5defe4237e24be8d6aa7c6e2a26703dc2e9d07e71412dfc4"
+hash = "0df092a3ac1e9d5c9500814f90d30f43ab50803c2632ad29059be48d9ed2e502"
 metafile = true
 
 [[files]]
@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9c8b6d8e1a13a4f7edd081c1ab561c51069d6315a67c217a88fafcd1ddfb17a8"
+hash = "f91ca238ef6d15fa97e284475eb454a17590e87ed4277e8b6462e1dce5924c66"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "33500c6577b5a83808da55dac95cbe731bc771be2db59e4754d24a86cc15e6a8"
+hash = "8ccd17daba5bfc3c5ec95a7b143d4e65b5e723435921d2e201c5ff4270c80219"
 metafile = true
 
 [[files]]

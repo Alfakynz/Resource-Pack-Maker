@@ -1,0 +1,13 @@
+name = "Hot-Reload Resource Packs Forked"
+filename = "hot_reload_resource_packs-fabric-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KsOce7sT/versions/jiAjgohM/hot_reload_resource_packs-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "edd3a29f132968995b541848695b519d47f63e05aa2ca908891d218339a1c8121f7ff4a6a3585eedfe86bd626fe06a01cff54647e5b58a3653365b36e7631cd1"
+
+[update]
+[update.modrinth]
+mod-id = "KsOce7sT"
+version = "jiAjgohM"

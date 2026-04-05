@@ -1,0 +1,13 @@
+name = "Hot-Reload Resource Packs Forked"
+filename = "hot_reload_resource_packs-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f10a0ea3080b9b12f07556d045d437717d4e29d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7790662
+project-id = 1491885

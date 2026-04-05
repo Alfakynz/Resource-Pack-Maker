@@ -25,10 +25,6 @@ file = "config/no-more-popups.json"
 hash = "2c4aca5de5a66cddf94a99bc55a437192edb70a837d146afc157ddbb26fd8d2b"
 
 [[files]]
-file = "config/nomorepopups.json"
-hash = "6b95b4b2adb794679701fb824d8532cd368e416f31da1b04c86c3712a5a5b9dd"
-
-[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "6160c0e00f3391cd34fafcb2ea6c66e00a0e43a8d25d401077e974a397b54326"
 
@@ -83,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-gamemode.pw.toml"
-hash = "524afa465e999b79bcf9f51e2d1197d62bbef4f402bdbbb0f3ff9c9357445324"
+hash = "47b9ead130f434e5d7ccb6c16e4fda930c34ed589750a8e44a880bd690f4cf7d"
 metafile = true
 
 [[files]]
@@ -98,17 +94,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "87d9d8848527dfedc48827c8ed220444da292ab9d386d2678551e60b4f5a866c"
+hash = "0bd7aa9668c5068ed43da9621bd7d659147dac004068d941516dd6d1ed3744a2"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "b748832ad62f5762aa18408ddb4eb4d3c7749bf6e56331746494de74de3b055c"
+hash = "c8b1fe058ba42213cfe46fda5cee385f7e4eeb098ebdf207f6d81cf8b7cf1bb5"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5889fbe04b8755d104e035c400bf2cad41173dd1337ed91576e06c3955bfcbed"
+hash = "584bd4bb9cc3e6fe4225b40cbe8d3166ce1d7f881c4afa15f3a082b4ba690756"
 metafile = true
 
 [[files]]
@@ -118,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
+hash = "151e599df2c5f3df4234f50a3a6df42add337c8aaecb1a7d71340fe12f2482ca"
 metafile = true
 
 [[files]]
@@ -132,8 +128,8 @@ hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
-file = "mods/hot-reload-resource-packs.pw.toml"
-hash = "6337b1d8e1e45bb0cd1bfdde207e9b7c3fe87f53155bfba168d93781041f54c4"
+file = "mods/hot-reload-resource-packs-forked.pw.toml"
+hash = "6d8c3c53c2180bc05da51081c74aad2ffddde406c512a0f56836c5aae8ec0877"
 metafile = true
 
 [[files]]
@@ -173,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "2edafdc423051b21edbe49f433e73e6ba3164dfb079673355003e0f889e7ddf3"
+hash = "b984aa6dd6a4d054a5172435d752f5c273b5fb41a8b93d7519f539acd77bf625"
 metafile = true
 
 [[files]]
@@ -263,4 +259,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "242dbfe356b6217f54478aa5d8e366010d72a41d6a735256f81b4f673d76e354"
+hash = "55839c666d75d1e2309e2390d1907418c3f643caf51c146a2ee77ea02c8955a5"

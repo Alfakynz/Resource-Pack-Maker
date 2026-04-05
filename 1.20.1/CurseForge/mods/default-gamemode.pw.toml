@@ -1,13 +1,13 @@
 name = "Default Gamemode"
-filename = "default-gamemode-1.0.1.jar"
+filename = "default-gamemode-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d1f004a6a47dde00ddce9c3415002c794cef33a1"
+hash = "e73cb11c431c6094c232d32f5baf68ba8769bfe8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7389662
+file-id = 7766178
 project-id = 1415056

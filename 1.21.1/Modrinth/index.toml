@@ -25,10 +25,6 @@ file = "config/no-more-popups.json"
 hash = "2c4aca5de5a66cddf94a99bc55a437192edb70a837d146afc157ddbb26fd8d2b"
 
 [[files]]
-file = "config/nomorepopups.json"
-hash = "6b95b4b2adb794679701fb824d8532cd368e416f31da1b04c86c3712a5a5b9dd"
-
-[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "6160c0e00f3391cd34fafcb2ea6c66e00a0e43a8d25d401077e974a397b54326"
 
@@ -83,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-gamemode.pw.toml"
-hash = "3e1aff4acebe53fdd12b14afa2a17374240870f3eeee8b0f7ab478cf588d0511"
+hash = "d38f97bd77707edea0b9e154f2997c4adc4ee29de287860ae6b3c5bd663074ac"
 metafile = true
 
 [[files]]
@@ -98,27 +94,27 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d34330399846584de94a7b4a43440a3a4007a6d1e02f02335ecb529c0871133d"
+hash = "cbd461bced027900f6e97d74f4032bcc4c8894710719ac2c75a7469c51529b4e"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1fbcec6fae4237b80bf2becfc06fb52a49512821f402b5928b1e2533c73b3142"
+hash = "63df182532913eea2627f6486a7ea292f55ddf27dba55a4bc25911f32d30dce5"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6321f4d1a0f6f084d0325d27806c0c875526c704a1209c04a19a6a9d31283917"
+hash = "6c2898c991b34f7a1f83c2fb88a965ee5218dee0e6ca9bb1ac15c4f779cfc4bc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "a42d6d03c6764f037181b023e0b4e3c5574fdda5f9b837d1ca753dfa4180e1d5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -132,8 +128,8 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
-file = "mods/hot-reload-resource-packs.pw.toml"
-hash = "6337b1d8e1e45bb0cd1bfdde207e9b7c3fe87f53155bfba168d93781041f54c4"
+file = "mods/hot-reload-resource-packs-forked.pw.toml"
+hash = "7317204b8c3e3f5fec2bbd4513c7949d1bc8f7d9067e361488f67340b1324ed5"
 metafile = true
 
 [[files]]
@@ -163,17 +159,17 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "10d2cb5f575d0c290549758cafe0e3b15acbca8c5163aa4209cbe4fb8fcb7de5"
+hash = "665e23915780bf20d98f0c5b245b473324b90bad9c6ab93840f8bba4bbead6ae"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
+hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
 metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "43b7544c0a49c9368caf33a1529a720c6fadb17f7d07db6a8e952b514b5a862c"
+hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
 metafile = true
 
 [[files]]
@@ -188,12 +184,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
+hash = "714334a18735cf73c4ac91d2d465845f3e22d4fcf04eebd3e0fd2579afb6d8a2"
 metafile = true
 
 [[files]]
@@ -223,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a69852f62b7c53b1eeb0dee07898dd142ed980be6caa2b9b4c72c90548fc8c3b"
+hash = "446414707233e16ccd3f3a6b3f9a099f53921fd3d16a56fd4af674da0ea49110"
 metafile = true
 
 [[files]]
@@ -238,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "6a9307b0c3b758faba13ab51388ccbb16ad2281bbd02c8e3655405fcdd7152fa"
+hash = "501092b0ef6b90f462ed0d257c7a5386e4bd06228a7f3be7da0f3c84ea03fca3"
 metafile = true
 
 [[files]]
@@ -268,4 +264,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "242dbfe356b6217f54478aa5d8e366010d72a41d6a735256f81b4f673d76e354"
+hash = "55839c666d75d1e2309e2390d1907418c3f643caf51c146a2ee77ea02c8955a5"
